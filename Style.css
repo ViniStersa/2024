@@ -10,6 +10,13 @@ font-family: Arial;
 
 h1
 {
-  color: write;
+  color: white;
   font-size: 20pt;
+}
+
+h2
+{
+  color: white;
+  font-size: 13pt;
+
 }
