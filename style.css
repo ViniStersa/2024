@@ -37,7 +37,7 @@ h3
 
 p
 {
-    color: black;
+    color: white;
     font-size: 16pt;
     font-family:Arial;
     text-align: center; 
@@ -45,15 +45,15 @@ p
 
 table
 {
-    background-color: white;
-    color: black;
+    background-color: black;
+    color: white;
     font-size: 20pt;
     font-family:Arial;   
     table, td, th, tfoot 
         {
             border: 3px solid;
         }  
-    td {color: blue;}
+    td {color: white;}
     text-align: center;  
     margin: auto;    
 }
