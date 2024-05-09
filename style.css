@@ -47,11 +47,11 @@ table
 {
     background-color: black;
     color: white;
-    font-size: 15pt;
+    font-size: 20pt;
     font-family:Arial;   
     table, td, th, tfoot 
         {
-            border: 5px solid;
+            border: 1px solid;
         }  
     td {color: white;}
     text-align: center;  
