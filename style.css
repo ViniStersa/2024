@@ -30,7 +30,7 @@ h2
 h3
 {
     color: white;
-    font-size: 15pt;
+    font-size: 10pt;
     font-family: Arial;
     text-align: center;
 }
@@ -47,11 +47,11 @@ table
 {
     background-color: black;
     color: white;
-    font-size: 25pt;
+    font-size: 15pt;
     font-family:Arial;   
     table, td, th, tfoot 
         {
-            border: 3px solid;
+            border: 5px solid;
         }  
     td {color: white;}
     text-align: center;  
