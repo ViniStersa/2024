@@ -29,17 +29,17 @@ h2
 
 h3
 {
-    color: blue;
+    color: white;
     font-size: 20pt;
-    font-family: Verdana;
+    font-family: Arial;
     text-align: center;
 }
 
 p
 {
-    color: white;
-    font-size: 16pt;
-    font-family:Arial;
+    color: blue;
+    font-size: 20pt;
+    font-family: Verdana;
     text-align: center; 
 }
 
