@@ -3,7 +3,7 @@
 body
 {
     background-image: linear-gradient(90deg, light black, light gray);
-    color: black;
+    color: white;
     font-size: 12pt;
     font-family: Arial;
     text-align: center;
@@ -14,7 +14,7 @@ h1
 {   
     background-image: linear-gradient(270deg, light gray, light black);
     background-color: aqua;
-    color: black;
+    color: white;
     font-size: 30pt;
     font-family:Arial;
     text-align: center;
@@ -22,7 +22,7 @@ h1
 
 h2
 {
-    color: black;
+    color: white;
     font-size: 20pt;
     font-family:Arial;
     text-align: center;
